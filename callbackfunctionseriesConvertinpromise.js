@@ -44,3 +44,5 @@ enrollstudent(newstudent).then(function(){
     console.log('some error occured')
 })
 // getStudent();
+// function inside then:resolve
+// function inside catch:reject
